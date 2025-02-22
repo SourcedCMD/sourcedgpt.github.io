@@ -25,7 +25,7 @@ const Sidebar = ({ isOpen, onToggle, onApiKeyChange }: SidebarProps) => {
     {
       title: "Previous 30 Days",
       items: [
-        "Focus on Lovable Viral",
+        "Focus on TempUX Viral",
         "Create Twitter Clone",
         "Reddit Posting Guidelines",
         "Revamping Social Features",
@@ -80,7 +80,7 @@ const Sidebar = ({ isOpen, onToggle, onApiKeyChange }: SidebarProps) => {
                 <div className="h-6 w-6 flex items-center justify-center">
                   <Globe className="h-4 w-4" />
                 </div>
-                <span className="text-sm">ChatGPT</span>
+                <span className="text-sm">TempUX</span>
               </div>
               <div className="group flex h-10 items-center gap-2.5 rounded-lg px-2 hover:bg-token-sidebar-surface-secondary cursor-pointer">
                 <div className="h-6 w-6 flex items-center justify-center">
