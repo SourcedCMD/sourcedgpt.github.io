@@ -84,7 +84,7 @@ const Index = () => {
                 <ChatInput onSend={handleSendMessage} isLoading={isLoading} />
               </div>
               <div className="text-xs text-center text-gray-500 py-2">
-                ChatGPT can make mistakes. Check important info.
+                SourcedGPT can make mistakes. Check important info.
               </div>
             </>
           )}
